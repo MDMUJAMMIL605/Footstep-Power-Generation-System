@@ -25,3 +25,5 @@ A sustainable micro-energy harvesting system that converts mechanical pressure f
 2. Ensure `LiquidCrystal_I2C` library is installed.
 3. Select board **Arduino Uno** and the correct COM port.
 4. Upload the code and press on the piezo array to generate power and track steps.
+## 📄 Documentation
+- [View Full Project Report](./Project%20Reports...pdf)
